@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <clipPath id="c"><circle cx="200" cy="200" r="200"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="400" height="400" fill="#e0b04f"/>
+    <circle cx="300" cy="90" r="120" fill="#e9c272"/>
+    <!-- áo -->
+    <path d="M60 400c10-80 70-120 140-120s130 40 140 120z" fill="#c8553d"/>
+    <path d="M168 282l32 40 32-40" fill="#f6f1e7"/>
+    <!-- cổ -->
+    <rect x="176" y="232" width="48" height="56" rx="18" fill="#d9a07c"/>
+    <!-- mặt -->
+    <ellipse cx="200" cy="178" rx="70" ry="82" fill="#e8b48f"/>
+    <!-- tóc -->
+    <path d="M128 168c-6-64 34-102 80-100 46 2 76 36 68 98-8-30-30-50-62-54-30-4-62 10-86 56z" fill="#1d2433"/>
+    <!-- kính -->
+    <g fill="none" stroke="#1d2433" stroke-width="5">
+      <rect x="146" y="166" width="44" height="34" rx="12"/>
+      <rect x="210" y="166" width="44" height="34" rx="12"/>
+      <path d="M190 180h20"/>
+    </g>
+    <circle cx="168" cy="184" r="5" fill="#1d2433"/>
+    <circle cx="232" cy="184" r="5" fill="#1d2433"/>
+    <!-- miệng -->
+    <path d="M178 226q22 18 44 0" fill="none" stroke="#8c4a35" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>
